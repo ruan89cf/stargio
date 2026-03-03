@@ -1,21 +1,17 @@
-# stargio
-Olá, Estou criando um website completo para aprendizado e melhorar minha experiência como profissional.
+# Stargio 🚀
 
+Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de estágio. Este é um projeto em desenvolvimento, construído baseando-se em arquitetura híbrida para fins de estudo e para minha evolução profissional.
 
-Plano Stargio
+## O Plano de Desenvolvimento
 
-Frontend:
+**Stack Tecnológica:**
+*   **Backend:** PHP, MySQL, NoSQL, APIs Restful.
+*   **Frontend:** Javascript, HTML, CSS3.
 
-Javascript, HTML, CSS3
+**Funcionalidades Principais:**
+1.  **Usuários (PHP e MySQL):** Criar o painel administrativo usando MySQL para inserir e gerenciar de forma estruturada os dados dos usuários (empresas e estudantes) e seus currículos.
+2.  **Vagas (NoSQL / JSON):** Estruturar e armazenar as postagens das vagas utilizando linguagem NoSQL e/ou arquivos JSON.
+3.  **Localização (APIs):** Capturar o endereço via CEP durante o processo de cadastro usando uma API externa, possibilitando a localização de usuários para cruzamento com os dados das vagas.
 
-Backend:
-
-PHP, MySQL, NoSQL, APIs Restful
-
-
-
-Funcionalidades (Passo a Passo):
-
-Usuários (PHP e MySQL): Criar o painel para inserir e gerenciar os dados dos usuários e seus currículos.
-Vagas (NoSQL / JSON): Estruturar e armazenar as vagas usando linguagem NoSQL ou arquivos JSON.
-Localização (APIs): Capturar o endereço via CEP durante o cadastro usando uma API externa, para localizar usuários e cruzar dados.
+---
+**Nota sobre a Licença:** O uso deste código para fins comerciais é estritamente proibido (Creative Commons NonCommercial - CC BY-NC 4.0).
