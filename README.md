@@ -20,6 +20,10 @@ Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de e
 2.  **Vagas (NoSQL / JSON):** Estruturar e armazenar as postagens das vagas utilizando linguagem NoSQL e/ou arquivos JSON.
 3.  **Localização (APIs):** Capturar o endereço via CEP durante o processo de cadastro usando uma API externa, possibilitando a localização de usuários para cruzamento com os dados das vagas.
 
+**Inteligencia Artifical:**
+1.  **Modelagem de dados:** Peso nas vagas para dizer qual vaga se encaixa em qual perfil.
+2.  **LLM usadas:** Gemini 3.1 | Chatgpt 5.2.
+
 **Hospedagem e DNS**
 
 * **Cloudflare e Registro.br**
