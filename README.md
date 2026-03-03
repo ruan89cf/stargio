@@ -3,7 +3,13 @@
 
 Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de estágio. Este é um projeto em desenvolvimento, construído baseando-se em arquitetura híbrida para fins de estudo e para minha evolução profissional.
 
+
+
 ## O Plano de Desenvolvimento
+
+**Controle:**
+
+* **Git e versionamento.**
 
 **Stack Tecnológica:**
 *   **Backend:** PHP, MySQL, NoSQL, APIs Restful.
