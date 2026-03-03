@@ -20,6 +20,10 @@ Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de e
 2.  **Vagas (NoSQL / JSON):** Estruturar e armazenar as postagens das vagas utilizando linguagem NoSQL e/ou arquivos JSON.
 3.  **Localização (APIs):** Capturar o endereço via CEP durante o processo de cadastro usando uma API externa, possibilitando a localização de usuários para cruzamento com os dados das vagas.
 
+**Hospedagem e DNS**
+
+* **Cloudflare e Registro.br**
+
 ---
 **Nota sobre a Licença:** O uso deste código para fins comerciais é estritamente proibido (Creative Commons NonCommercial - CC BY-NC 4.0).
 
