@@ -28,6 +28,10 @@ Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de e
 
 * **Cloudflare e Registro.br**
 
+**FLUXOGRAMA**
+
+link em breve
+
 ---
 **Nota sobre a Licença:** O uso deste código para fins comerciais é estritamente proibido (Creative Commons NonCommercial - CC BY-NC 4.0).
 
