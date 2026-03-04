@@ -1,8 +1,18 @@
 # Stargio 🚀
 
-Website http://stargio.xyz/
 
 Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de estágio. Este é um projeto em desenvolvimento, construído com arquitetura híbrida para fins de estudo e evolução profissional.
+
+
+## Releases
+
+### v0.1.0 — 2026-03-03
+- **Added:** Website inicial publicado (PHP simples + HTML básico + CSS simples).
+- **Added:** README com plano do projeto + stack.
+- **Added:** Fluxograma (`fluxograma.png`).
+- **Notes:** Próximos codigos o front-end será removido e recriado.
+
+
 
 ## Fluxograma
 
