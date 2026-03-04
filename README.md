@@ -1,5 +1,7 @@
 # Stargio 🚀
 
+Website http://stargio.xyz/
+
 Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de estágio. Este é um projeto em desenvolvimento, construído com arquitetura híbrida para fins de estudo e evolução profissional.
 
 ## Fluxograma
