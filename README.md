@@ -41,7 +41,7 @@ O planejamento é fundamental, então criei um fluxograma para entender a base d
 **Inteligência Artificial:**
 
 1. **Modelagem de dados:** Aplicar peso nas vagas para identificar qual vaga se encaixa melhor em cada perfil.
-2. **LLMs usadas:** Gemini 3.1 e ChatGPT 5.2.
+
 
 **Hospedagem e DNS:**
 
