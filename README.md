@@ -7,7 +7,7 @@ Website http://stargio.xyz/
 
 ## Releases
 
-### v0.1.0 — 2026-03-03
+### v0.1.0 — 03/03/2026
 - **Added:** Website inicial publicado (PHP simples + HTML básico + CSS simples).
 - **Added:** README com plano do projeto + stack.
 - **Added:** Fluxograma (`fluxograma.png`).
