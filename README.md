@@ -1,5 +1,7 @@
 # Stargio 🚀
 
+![Conceito do Projeto Stargio](conceito.jpg)
+
 Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de estágio. Este é um projeto em desenvolvimento, construído baseando-se em arquitetura híbrida para fins de estudo e integração de portfólio.
 
 ## O Plano de Desenvolvimento
