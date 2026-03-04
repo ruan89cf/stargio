@@ -19,7 +19,7 @@ Website http://stargio.xyz/
 
 O planejamento é fundamental, então criei um fluxograma para entender a base do projeto e o caminho de desenvolvimento.
 
-![Fluxograma do projeto](fluxograma.png)
+![Fluxograma do projeto](https://i.ibb.co/yF33VC2x/Diagrama-em-branco.png)
 
 ## O Plano de Desenvolvimento
 
