@@ -1,19 +1,41 @@
 # Stargio 🚀
 
-![Conceito do Projeto Stargio](conceito.jpg)
+Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de estágio. Este é um projeto em desenvolvimento, construído com arquitetura híbrida para fins de estudo e evolução profissional.
 
-Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de estágio. Este é um projeto em desenvolvimento, construído baseando-se em arquitetura híbrida para fins de estudo e integração de portfólio.
+## Fluxograma
+
+O planejamento é fundamental, então criei um fluxograma para entender a base do projeto e o caminho de desenvolvimento.
+
+![Fluxograma do projeto](fluxograma.png)
 
 ## O Plano de Desenvolvimento
 
+**Controle:**
+
+* **Git e versionamento.**
+
 **Stack Tecnológica:**
-*   **Backend:** PHP, MySQL, NoSQL, APIs Restful.
-*   **Frontend:** Javascript, HTML, CSS3.
+
+* **Backend:** PHP, MySQL, NoSQL, APIs Restful.
+* **Frontend:** JavaScript, HTML, CSS3.
 
 **Funcionalidades Principais:**
-1.  **Usuários (PHP e MySQL):** Criar o painel administrativo usando MySQL para inserir e gerenciar de forma estruturada os dados dos usuários (empresas e estudantes) e seus currículos.
-2.  **Vagas (NoSQL / JSON):** Estruturar e armazenar as postagens das vagas utilizando linguagem NoSQL e arquivos JSON.
-3.  **Localização (APIs):** Capturar o endereço via CEP durante o processo de cadastro usando uma API externa, possibilitando a localização de usuários para cruzamento com os dados das vagas.
+
+1. **Usuários (PHP e MySQL):** Criar o painel administrativo usando MySQL para inserir e gerenciar de forma estruturada os dados de empresas, estudantes e currículos.
+2. **Vagas (NoSQL / JSON):** Estruturar e armazenar postagens de vagas com NoSQL e/ou arquivos JSON.
+3. **Localização (APIs):** Capturar endereço via CEP durante o cadastro para cruzar localização de usuários com dados das vagas.
+
+**Inteligência Artificial:**
+
+1. **Modelagem de dados:** Aplicar peso nas vagas para identificar qual vaga se encaixa melhor em cada perfil.
+2. **LLMs usadas:** Gemini 3.1 e ChatGPT 5.2.
+
+**Hospedagem e DNS:**
+
+* **Cloudflare e Registro.br**
+* **Link em breve**
 
 ---
 **Nota sobre a Licença:** O uso deste código para fins comerciais é estritamente proibido (Creative Commons NonCommercial - CC BY-NC 4.0).
+
+![Logo do Projeto](https://i.ibb.co/NdZVXYHn/stargio.png)
