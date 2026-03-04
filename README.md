@@ -6,7 +6,7 @@ Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de e
 **FLUXOGRAMA**
 
 O pronejamento é fundamental e para iniciar o projeto fiz um fluxograma para entender a base do que espero e o caminho que preciso seguir. veja abaixo o fluxograma no link
-![fluxograma](https://i.ibb.co/V7MWTRY/fluxograma.png)
+![fluxograma](https://i.ibb.co/yF33VC2x/Diagrama-em-branco.png)
 
 ## O Plano de Desenvolvimento
 
