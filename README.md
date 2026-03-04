@@ -12,7 +12,7 @@ Website http://stargio.xyz/
 - **Added:** README com plano do projeto + stack.
 - **Added:** Fluxograma (`fluxograma.png`).
 - **Added:** VPS Ubuntu 18.04 64Bits | Spaceship DNS, Vhost NGinx + PHP.
-- **Notes:** Próximos update em até 3 dias e nele o front-end será recriado.
+- **Notes:** Próximo update será em até 3 dias, e nele o front-end será recriado.
 
 
 ## Fluxograma
