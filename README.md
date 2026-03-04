@@ -3,6 +3,7 @@
 
 Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de estágio. Este é um projeto em desenvolvimento, construído com arquitetura híbrida para fins de estudo e evolução profissional.
 
+Website http://stargio.xyz/
 
 ## Releases
 
@@ -10,6 +11,7 @@ Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de e
 - **Added:** Website inicial publicado (PHP simples + HTML básico + CSS simples).
 - **Added:** README com plano do projeto + stack.
 - **Added:** Fluxograma (`fluxograma.png`).
+- **Added:** VPS Ubuntu 18.04 64Bits | Spaceship DNS, Vhost NGinx + PHP.
 - **Notes:** Próximos codigos o front-end será removido e recriado.
 
 
