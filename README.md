@@ -3,7 +3,10 @@
 
 Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de estágio. Este é um projeto em desenvolvimento, construído baseando-se em arquitetura híbrida para fins de estudo e para minha evolução profissional.
 
+**FLUXOGRAMA**
 
+O pronejamento é fundamental e para iniciar o projeto fiz um fluxograma para entender a base do que espero e o caminho que preciso seguir. veja abaixo o fluxograma no link
+![fluxograma](http://stargio.xyz/fluxograma.png)
 
 ## O Plano de Desenvolvimento
 
@@ -28,7 +31,7 @@ Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de e
 
 * **Cloudflare e Registro.br**
 
-**FLUXOGRAMA**
+
 
 * **link em breve**
 
