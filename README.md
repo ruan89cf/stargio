@@ -5,6 +5,11 @@ Uma plataforma de vagas focada em conectar estudantes a oportunidades reais de e
 
 Website http://stargio.xyz/
 
+**Starget** 
+
+O **Starget** é responsável pela inteligência de raspagem de dados do sistema **Stargio**.
+
+
 ## Releases
 
 ### v0.1.0 — 03/03/2026
@@ -12,8 +17,12 @@ Website http://stargio.xyz/
 - **Added:** README com plano do projeto + stack.
 - **Added:** Fluxograma (`fluxograma.png`).
 - **Added:** VPS Ubuntu 18.04 64Bits | Spaceship DNS, Vhost NGinx + PHP.
-- **Notes:** Próximo update será em até 3 dias, e nele o front-end será recriado.
-
+- 
+### v0.1.1 — 06/03/2026
+- **Added:** Captura simples de HTML via Python.
+- **fix:** front-end recriado. 
+- **Notes:** Próximo update será em até 3 dias.
+-
 
 ## Fluxograma
 
