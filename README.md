@@ -9,6 +9,7 @@ Website http://stargio.xyz/
 
 O **Starget** é responsável pela inteligência de raspagem de dados do sistema **Stargio**.
 
+Link: https://github.com/ruan89cf/Starget
 
 ## Releases
 
@@ -21,7 +22,7 @@ O **Starget** é responsável pela inteligência de raspagem de dados do sistema
 ### v0.1.1 — 06/03/2026
 - **Added:** Captura simples de HTML via Python.
 - **fix:** front-end recriado. 
-- **Notes:** Próximo update será em até 3 dias.
+- **Notes:** Próximo update será em até 5 dias, com update robusto de Starget.
 -
 
 ## Fluxograma
