@@ -25,6 +25,12 @@ Link: https://github.com/ruan89cf/Starget
 - **Notes:** Próximo update será em até 5 dias, com update robusto de Starget.
 -
 
+### v0.1.1.1 — 14/04/2026
+- **Added:** Projeto em fima. 
+- **Notes:** O projeto não tinha caminho "visual" e iniciamos então o projeto em figma.
+-
+![Link figma](https://www.figma.com/design/0ZN6hQeiJDECeofzxwjWUZ/Sem-t%C3%ADtulo?node-id=0-1&t=A8smmWFB3J1vDrDP-1)
+
 ## Fluxograma
 
 O planejamento é fundamental, então criei um fluxograma para entender a base do projeto e o caminho de desenvolvimento.
