@@ -29,7 +29,9 @@ Link: https://github.com/ruan89cf/Starget
 - **Added:** Projeto em fima. 
 - **Notes:** O projeto não tinha caminho "visual" e iniciamos então o projeto em figma.
 -
-![Link figma](https://www.figma.com/design/0ZN6hQeiJDECeofzxwjWUZ/Sem-t%C3%ADtulo?node-id=0-1&t=A8smmWFB3J1vDrDP-1)
+
+
+https://www.figma.com/design/0ZN6hQeiJDECeofzxwjWUZ/Sem-t%C3%ADtulo?node-id=0-1&t=A8smmWFB3J1vDrDP-1
 
 ## Fluxograma
 
