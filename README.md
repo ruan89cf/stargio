@@ -29,9 +29,14 @@ Link: https://github.com/ruan89cf/Starget
 - **Added:** Projeto em fima. 
 - **Notes:** O projeto não tinha caminho "visual" e iniciamos então o projeto em figma.
 -
+### v0.1.1.2 — 03/05/2026
+- **Added:** Projeto em fima atualizado.
+- **Added:** Website no estagio inicial e acessivel. 
+- **Notes:** O projeto não tinha caminho "visual" e iniciamos então o projeto em figma.
+-
 
 
-https://www.figma.com/design/0ZN6hQeiJDECeofzxwjWUZ/Sem-t%C3%ADtulo?node-id=0-1&t=A8smmWFB3J1vDrDP-1
+[https://www.figma.com/design/0ZN6hQeiJDECeofzxwjWUZ/Sem-t%C3%ADtulo?node-id=0-1&t=A8smmWFB3J1vDrDP-1](https://www.figma.com/design/0ZN6hQeiJDECeofzxwjWUZ/projeto_estudantil?node-id=0-1&p=f&t=p7zU7L7acp7VPxG6-0)
 
 ## Fluxograma
 
